@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background -->
+  <rect width="512" height="512" rx="96" fill="#1a5fa8"/>
+  
+  <!-- Lightning bolt -->
+  <polygon points="290,60 160,280 248,280 222,452 352,232 264,232" 
+           fill="#ffffff" opacity="0.95"/>
+  
+  <!-- Small grid lines (decoration) -->
+  <line x1="60" y1="100" x2="100" y2="100" stroke="#ffffff" stroke-width="6" opacity="0.3" stroke-linecap="round"/>
+  <line x1="60" y1="120" x2="90" y2="120" stroke="#ffffff" stroke-width="6" opacity="0.2" stroke-linecap="round"/>
+  <line x1="412" y1="380" x2="452" y2="380" stroke="#ffffff" stroke-width="6" opacity="0.3" stroke-linecap="round"/>
+  <line x1="422" y1="400" x2="452" y2="400" stroke="#ffffff" stroke-width="6" opacity="0.2" stroke-linecap="round"/>
+</svg>
